@@ -1,0 +1,7 @@
+# File
+config.json 
+package-lock.json
+package.json
+
+# Dir
+node_modules/
